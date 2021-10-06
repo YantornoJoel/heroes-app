@@ -1,1 +1,1 @@
-### https://jy-heroes-app.netlify.app/login
+### https://jy-heroes-app.netlify.app
